@@ -1,5 +1,6 @@
 # Red neuronal para obtener la ecuacion que relaciona
 # los grados celsius con los grados farenheit
+# Problema de Regresion, tenemos un numero como salida
 #
 # Red de una sola entrada y una sola salida
 # 
